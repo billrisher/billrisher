@@ -1,0 +1,23 @@
+{
+  "name": "billrisher",
+  "version": "1.0.0",
+  "description": "Hey there, my name is Bill and I'm a believer in a free and open internet.  I think that information should be accessible by everyone and shouldn't be kept hidden.  We all stand on the shoulders of giants, and everyone should be able to enjoy the view.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/billrisher/billrisher.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/billrisher/billrisher/issues"
+  },
+  "homepage": "https://github.com/billrisher/billrisher#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.12.1"
+  }
+}

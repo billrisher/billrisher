@@ -1,16 +1,17 @@
-### Hello, glad you could make it!
+<center>
+    <h1>
+        Bill Risher / @billrisher <br />
+    </h1>
+    <h2>
+        <a href="https://billrisher.com">Website</a> | <a href="https://linkedin.com/in/william-risher">LinkedIn</a>
+    </h2>
+</center>
 
-<!--
-**billrisher/billrisher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+Hey there, my name is Bill and I'm a believer in the free and open internet. 
+I think that information should be accessible by everyone and shouldn't be kept hidden. 
+We all stand on the shoulders of giants, and everyone should be able to enjoy the view.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
