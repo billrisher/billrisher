@@ -13,13 +13,11 @@ I think that information should be accessible by everyone and shouldn't be kept 
 We all stand on the shoulders of giants, and everyone should be able to enjoy the view.
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
 **🐱 My Github Data** 
 
 > 🏆 25 Contributions in the Year 2021
  > 
-> 📦 11.3 kB Used in Github's Storage 
+> 📦 11.6 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -36,18 +34,6 @@ We all stand on the shoulders of giants, and everyone should be able to enjoy th
 🌙 Night      5 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.38%
 
 ```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday       13 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.78% 
-Tuesday      14 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.46% 
-Wednesday    12 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.11% 
-Thursday     11 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.43% 
-Friday       30 commits     █████░░░░░░░░░░░░░░░░░░░░   20.27% 
-Saturday     26 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.57% 
-Sunday       42 commits     ███████░░░░░░░░░░░░░░░░░░   28.38%
-
-```
 
 
 📊 **This Week I Spent My Time On** 
@@ -57,15 +43,6 @@ Sunday       42 commits     ███████░░░░░░░░░░�
 
 💬 Programming Languages: 
 Markdown                 0 secs              █████████████████████████   100.0%
-
-🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.0%
-
-🐱‍💻 Projects: 
-billrisher               0 secs              █████████████████████████   100.0%
-
-💻 Operating System: 
-Linux                    0 secs              █████████████████████████   100.0%
 
 ```
 
