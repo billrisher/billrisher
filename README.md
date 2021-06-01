@@ -15,9 +15,9 @@ We all stand on the shoulders of giants, and everyone should be able to enjoy th
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 25 Contributions in the Year 2021
+> 🏆 23 Contributions in the Year 2021
  > 
-> 📦 11.6 kB Used in Github's Storage 
+> 📦 12.0 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
