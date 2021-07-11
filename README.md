@@ -28,10 +28,10 @@ We all stand on the shoulders of giants, and everyone should be able to enjoy th
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    67 commits     ████████████░░░░░░░░░░░░░   47.52% 
-🌆 Daytime    43 commits     ███████░░░░░░░░░░░░░░░░░░   30.5% 
-🌃 Evening    26 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.44% 
-🌙 Night      5 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.55%
+🌞 Morning    67 commits     ████████████░░░░░░░░░░░░░   48.2% 
+🌆 Daytime    43 commits     ███████░░░░░░░░░░░░░░░░░░   30.94% 
+🌃 Evening    24 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.27% 
+🌙 Night      5 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.6%
 
 ```
 
@@ -42,8 +42,7 @@ We all stand on the shoulders of giants, and everyone should be able to enjoy th
 ⌚︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Rust                     6 mins              ███████████████████░░░░░░   78.29% 
-TOML                     1 min               █████░░░░░░░░░░░░░░░░░░░░   21.71%
+No Activity Tracked This Week
 
 ```
 
@@ -64,5 +63,5 @@ R                        1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/billrisher/billrisher/main/charts/bar_graph.png) 
 
 
- Last Updated on 10/07/2021
+ Last Updated on 11/07/2021
 <!--END_SECTION:waka-->
