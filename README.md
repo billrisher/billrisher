@@ -42,9 +42,9 @@ We all stand on the shoulders of giants, and everyone should be able to enjoy th
 ⌚︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Rust                     1 hr 8 mins         ██████████████████████░░░   90.75% 
-YAML                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   9.03% 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.22%
+Rust                     2 hrs 31 mins       ████████████████████████░   95.56% 
+YAML                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.34% 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.1%
 
 ```
 
@@ -65,5 +65,5 @@ R                        1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/billrisher/billrisher/main/charts/bar_graph.png) 
 
 
- Last Updated on 31/07/2021
+ Last Updated on 01/08/2021
 <!--END_SECTION:waka-->
