@@ -15,7 +15,7 @@ We all stand on the shoulders of giants, and everyone should be able to enjoy th
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 32 Contributions in the Year 2021
+> 🏆 34 Contributions in the Year 2021
  > 
 > 📦 12.4 kB Used in Github's Storage 
  > 
@@ -42,8 +42,9 @@ We all stand on the shoulders of giants, and everyone should be able to enjoy th
 ⌚︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Rust                     35 mins             ███████████████████████░░   95.05% 
-Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   4.95%
+Rust                     2 hrs 54 mins       ████████████████████████░   96.39% 
+Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.65% 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.95%
 
 ```
 
@@ -64,5 +65,5 @@ R                        1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/billrisher/billrisher/main/charts/bar_graph.png) 
 
 
- Last Updated on 12/08/2021
+ Last Updated on 13/08/2021
 <!--END_SECTION:waka-->
