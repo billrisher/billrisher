@@ -15,7 +15,7 @@ We all stand on the shoulders of giants, and everyone should be able to enjoy th
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 34 Contributions in the Year 2021
+> 🏆 36 Contributions in the Year 2021
  > 
 > 📦 12.4 kB Used in Github's Storage 
  > 
@@ -28,10 +28,10 @@ We all stand on the shoulders of giants, and everyone should be able to enjoy th
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    68 commits     ████████████░░░░░░░░░░░░░   48.23% 
-🌆 Daytime    44 commits     ███████░░░░░░░░░░░░░░░░░░   31.21% 
-🌃 Evening    24 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.02% 
-🌙 Night      5 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.55%
+🌞 Morning    68 commits     ████████████░░░░░░░░░░░░░   47.55% 
+🌆 Daytime    46 commits     ████████░░░░░░░░░░░░░░░░░   32.17% 
+🌃 Evening    24 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.78% 
+🌙 Night      5 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.5%
 
 ```
 
@@ -42,9 +42,9 @@ We all stand on the shoulders of giants, and everyone should be able to enjoy th
 ⌚︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Rust                     2 hrs 18 mins       ████████████████████████░   96.74% 
-Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.05% 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.2%
+Rust                     2 hrs 26 mins       ████████████████████████░   95.84% 
+Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.04% 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.13%
 
 ```
 
@@ -65,5 +65,5 @@ R                        1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/billrisher/billrisher/main/charts/bar_graph.png) 
 
 
- Last Updated on 14/08/2021
+ Last Updated on 15/08/2021
 <!--END_SECTION:waka-->
