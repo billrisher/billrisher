@@ -42,7 +42,7 @@ We all stand on the shoulders of giants, and everyone should be able to enjoy th
 ⌚︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Rust                     4 mins              █████████████████████████   100.0%
 
 ```
 
@@ -63,5 +63,5 @@ R                        1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/billrisher/billrisher/main/charts/bar_graph.png) 
 
 
- Last Updated on 09/09/2021
+ Last Updated on 11/09/2021
 <!--END_SECTION:waka-->
