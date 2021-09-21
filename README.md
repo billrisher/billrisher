@@ -17,7 +17,7 @@ We all stand on the shoulders of giants, and everyone should be able to enjoy th
 
 > 🏆 41 Contributions in the Year 2021
  > 
-> 📦 12.5 kB Used in Github's Storage 
+> 📦 12.7 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -63,5 +63,5 @@ R                        1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/billrisher/billrisher/main/charts/bar_graph.png) 
 
 
- Last Updated on 20/09/2021
+ Last Updated on 21/09/2021
 <!--END_SECTION:waka-->
