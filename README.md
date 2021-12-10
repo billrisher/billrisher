@@ -15,7 +15,7 @@ We all stand on the shoulders of giants, and everyone should be able to enjoy th
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 🏆 44 Contributions in the Year 2021
+> 🏆 46 Contributions in the Year 2021
  > 
 > 📦 13.1 kB Used in GitHub's Storage 
  > 
@@ -28,9 +28,9 @@ We all stand on the shoulders of giants, and everyone should be able to enjoy th
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    11 commits     ████████░░░░░░░░░░░░░░░░░   34.38% 
-🌆 Daytime    18 commits     ██████████████░░░░░░░░░░░   56.25% 
-🌃 Evening    3 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   9.38% 
+🌞 Morning    12 commits     ████████░░░░░░░░░░░░░░░░░   35.29% 
+🌆 Daytime    19 commits     ██████████████░░░░░░░░░░░   55.88% 
+🌃 Evening    3 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.82% 
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
@@ -42,9 +42,9 @@ We all stand on the shoulders of giants, and everyone should be able to enjoy th
 ⌚︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-C                        27 mins             ████████████████████████░   95.68% 
-Other                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   4.32% 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+TypeScript               17 mins             ████████████████████████░   98.6% 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.36% 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04%
 
 ```
 
@@ -65,5 +65,5 @@ Ruby                     1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/billrisher/billrisher/main/charts/bar_graph.png) 
 
 
- Last Updated on 09/12/2021
+ Last Updated on 10/12/2021
 <!--END_SECTION:waka-->
