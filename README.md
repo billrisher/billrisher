@@ -13,9 +13,11 @@ I think that information should be accessible by everyone and shouldn't be kept 
 We all stand on the shoulders of giants, and everyone should be able to enjoy the view.
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-73%20hrs%2011%20mins-blue)
+
 **🐱 My GitHub Data** 
 
-> 🏆 62 Contributions in the Year 2021
+> 🏆 64 Contributions in the Year 2021
  > 
 > 📦 13.5 kB Used in GitHub's Storage 
  > 
@@ -28,9 +30,9 @@ We all stand on the shoulders of giants, and everyone should be able to enjoy th
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    9 commits      █████░░░░░░░░░░░░░░░░░░░░   21.43% 
-🌆 Daytime    29 commits     █████████████████░░░░░░░░   69.05% 
-🌃 Evening    4 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   9.52% 
+🌞 Morning    9 commits      █████░░░░░░░░░░░░░░░░░░░░   20.45% 
+🌆 Daytime    31 commits     █████████████████░░░░░░░░   70.45% 
+🌃 Evening    4 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
@@ -42,9 +44,9 @@ We all stand on the shoulders of giants, and everyone should be able to enjoy th
 ⌚︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-TypeScript               5 hrs 4 mins        █████████████████████████   100.0% 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+TypeScript               48 mins             █████████████████████████   99.98% 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
 
 ```
 
@@ -65,5 +67,5 @@ Ruby                     1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/billrisher/billrisher/main/charts/bar_graph.png) 
 
 
- Last Updated on 26/12/2021
+ Last Updated on 27/12/2021
 <!--END_SECTION:waka-->
