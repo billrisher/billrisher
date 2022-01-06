@@ -15,9 +15,9 @@ We all stand on the shoulders of giants, and everyone should be able to enjoy th
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 🏆 3 Contributions in the Year 2022
+> 🏆 5 Contributions in the Year 2022
  > 
-> 📦 13.5 kB Used in GitHub's Storage 
+> 📦 13.6 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -28,9 +28,9 @@ We all stand on the shoulders of giants, and everyone should be able to enjoy th
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    10 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.23% 
-🌆 Daytime    35 commits     ████████████████░░░░░░░░░   67.31% 
-🌃 Evening    7 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.46% 
+🌞 Morning    11 commits     █████░░░░░░░░░░░░░░░░░░░░   20.37% 
+🌆 Daytime    36 commits     ████████████████░░░░░░░░░   66.67% 
+🌃 Evening    7 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.96% 
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
@@ -42,10 +42,10 @@ We all stand on the shoulders of giants, and everyone should be able to enjoy th
 ⌚︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-TypeScript               10 hrs 6 mins       ████████████████████████░   97.23% 
-JSON                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.51% 
-Other                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.95% 
-JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.31% 
+TypeScript               11 hrs 14 mins      ████████████████████████░   97.49% 
+JSON                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.36% 
+Other                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.87% 
+JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.28% 
 XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
@@ -67,5 +67,5 @@ Ruby                     1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/billrisher/billrisher/main/charts/bar_graph.png) 
 
 
- Last Updated on 05/01/2022
+ Last Updated on 06/01/2022
 <!--END_SECTION:waka-->
