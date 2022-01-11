@@ -17,7 +17,7 @@ We all stand on the shoulders of giants, and everyone should be able to enjoy th
 
 > 🏆 18 Contributions in the Year 2022
  > 
-> 📦 13.6 kB Used in GitHub's Storage 
+> 📦 13.7 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -42,9 +42,9 @@ We all stand on the shoulders of giants, and everyone should be able to enjoy th
 ⌚︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-TypeScript               13 hrs 6 mins       ████████████████████████░   98.78% 
-JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.97% 
-JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.24% 
+TypeScript               13 hrs 37 mins      ████████████████████████░   99.05% 
+JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.72% 
+JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.22% 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01% 
 XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
@@ -67,5 +67,5 @@ Ruby                     1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/billrisher/billrisher/main/charts/bar_graph.png) 
 
 
- Last Updated on 10/01/2022
+ Last Updated on 11/01/2022
 <!--END_SECTION:waka-->
