@@ -42,11 +42,7 @@ We all stand on the shoulders of giants, and everyone should be able to enjoy th
 ⌚︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-TypeScript               1 hr 30 mins        ████████████████░░░░░░░░░   63.79% 
-Markdown                 30 mins             █████░░░░░░░░░░░░░░░░░░░░   21.58% 
-JSON                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.78% 
-CSV                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.8% 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04%
+No Activity Tracked This Week
 
 ```
 
@@ -67,5 +63,5 @@ Ruby                     1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/billrisher/billrisher/main/charts/bar_graph.png) 
 
 
- Last Updated on 25/02/2022 18:46:03 UTC
+ Last Updated on 27/02/2022 18:42:24 UTC
 <!--END_SECTION:waka-->
