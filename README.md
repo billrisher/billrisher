@@ -13,7 +13,7 @@ I think that information should be accessible by everyone and shouldn't be kept 
 We all stand on the shoulders of giants, and everyone should be able to enjoy the view.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-115%20hrs%204%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -65,5 +65,5 @@ Rust                     2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/billrisher/billrisher/main/charts/bar_graph.png) 
 
 
- Last Updated on 15/08/2022 18:48:53 UTC
+ Last Updated on 17/08/2022 18:48:48 UTC
 <!--END_SECTION:waka-->
