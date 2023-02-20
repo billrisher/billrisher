@@ -13,7 +13,7 @@ I think that information should be accessible by everyone and shouldn't be kept 
 We all stand on the shoulders of giants, and everyone should be able to enjoy the view.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-119%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-120%20hrs%2044%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -44,11 +44,11 @@ We all stand on the shoulders of giants, and everyone should be able to enjoy th
 ⌚︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-TypeScript               57 mins             ████████████████░░░░░░░░░   64.43 % 
-JSON                     14 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
-Rust                     10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
-Git Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
-TSConfig                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
+TypeScript               57 mins             ██████████████████░░░░░░░   73.37 % 
+JSON                     14 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.73 % 
+Git Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
+TSConfig                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
 
 ```
 
@@ -69,5 +69,5 @@ Rust                     4 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/billrisher/billrisher/main/charts/bar_graph.png) 
 
 
- Last Updated on 19/02/2023 18:41:45 UTC
+ Last Updated on 20/02/2023 18:43:08 UTC
 <!--END_SECTION:waka-->
