@@ -43,7 +43,11 @@ We all stand on the shoulders of giants, and everyone should be able to enjoy th
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Java                     4 mins              █████████████████████████   100.00 % 
+TypeScript               38 mins             ████████████████░░░░░░░░░   65.55 % 
+YAML                     12 mins             ██████░░░░░░░░░░░░░░░░░░░   22.31 % 
+Java                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
+JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
+Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
 ```
 
 **I Mostly Code in Java** 
@@ -63,5 +67,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/billrisher/billrisher/main/assets/bar_graph.png)
 
 
- Last Updated on 06/03/2023 18:44:51 UTC
+ Last Updated on 07/03/2023 18:44:08 UTC
 <!--END_SECTION:waka-->
