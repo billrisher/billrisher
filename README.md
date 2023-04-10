@@ -17,7 +17,7 @@ We all stand on the shoulders of giants, and everyone should be able to enjoy th
 
 **🐱 My GitHub Data** 
 
-> 📦 21.5 kB Used in GitHub's Storage 
+> 📦 21.6 kB Used in GitHub's Storage 
  > 
 > 🏆 31 Contributions in the Year 2023
  > 
@@ -43,10 +43,7 @@ We all stand on the shoulders of giants, and everyone should be able to enjoy th
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-TypeScript               3 hrs 56 mins       █████████████████████████   99.45 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
-TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+TypeScript               2 hrs 11 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -66,5 +63,5 @@ SCSS                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/billrisher/billrisher/main/assets/bar_graph.png)
 
 
- Last Updated on 09/04/2023 18:39:23 UTC
+ Last Updated on 10/04/2023 18:40:13 UTC
 <!--END_SECTION:waka-->
