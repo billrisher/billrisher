@@ -43,8 +43,11 @@ We all stand on the shoulders of giants, and everyone should be able to enjoy th
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-TypeScript               3 hrs 31 mins       █████████████████████████   99.13 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+TypeScript               4 hrs 33 mins       ███████████████████████░░   93.49 % 
+JSON                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+JavaScript               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+TSConfig                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
 ```
 
 **I Mostly Code in Java** 
@@ -64,5 +67,5 @@ SCSS                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/billrisher/billrisher/main/assets/bar_graph.png)
 
 
- Last Updated on 19/04/2023 18:39:22 UTC
+ Last Updated on 20/04/2023 18:39:29 UTC
 <!--END_SECTION:waka-->
