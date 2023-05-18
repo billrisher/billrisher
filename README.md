@@ -13,19 +13,19 @@ I think that information should be accessible by everyone and shouldn't be kept 
 We all stand on the shoulders of giants, and everyone should be able to enjoy the view.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-171%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-171%20hrs%2051%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 22.3 kB Used in GitHub's Storage 
  > 
-> 🏆 45 Contributions in the Year 2023
+> 🏆 46 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
 > 📜 25 Public Repositories 
  > 
-> 🔑 21 Private Repositories 
+> 🔑 22 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -43,19 +43,19 @@ We all stand on the shoulders of giants, and everyone should be able to enjoy th
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-TypeScript               2 hrs 35 mins       █████████████████████████   98.74 % 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+TypeScript               2 hrs 28 mins       █████████████████████████   98.96 % 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 ```
 
 **I Mostly Code in Java** 
 
 ```text
-TypeScript               9 repos             █████░░░░░░░░░░░░░░░░░░░░   21.95 % 
-JavaScript               7 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
-Rust                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
-Python                   5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
-SCSS                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+TypeScript               9 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
+JavaScript               8 repos             █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
+Rust                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
+Python                   5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
+SCSS                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
 ```
 
 
@@ -65,5 +65,5 @@ SCSS                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/billrisher/billrisher/main/assets/bar_graph.png)
 
 
- Last Updated on 17/05/2023 18:39:46 UTC
+ Last Updated on 18/05/2023 18:39:49 UTC
 <!--END_SECTION:waka-->
