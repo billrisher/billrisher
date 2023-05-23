@@ -13,7 +13,7 @@ I think that information should be accessible by everyone and shouldn't be kept 
 We all stand on the shoulders of giants, and everyone should be able to enjoy the view.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-174%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-174%20hrs%2053%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -43,9 +43,8 @@ We all stand on the shoulders of giants, and everyone should be able to enjoy th
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-TypeScript               4 hrs 18 mins       █████████████████████████   99.27 % 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+TypeScript               3 hrs 9 mins        █████████████████████████   99.82 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 ```
 
 **I Mostly Code in Java** 
@@ -65,5 +64,5 @@ SCSS                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/billrisher/billrisher/main/assets/bar_graph.png)
 
 
- Last Updated on 22/05/2023 18:39:43 UTC
+ Last Updated on 23/05/2023 18:39:18 UTC
 <!--END_SECTION:waka-->
