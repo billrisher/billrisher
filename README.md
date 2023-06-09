@@ -13,11 +13,11 @@ I think that information should be accessible by everyone and shouldn't be kept 
 We all stand on the shoulders of giants, and everyone should be able to enjoy the view.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-175%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-175%20hrs%2048%20mins-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 23.6 kB Used in GitHub's Storage 
+> 📦 23.5 kB Used in GitHub's Storage 
  > 
 > 🏆 57 Contributions in the Year 2023
  > 
@@ -67,5 +67,5 @@ SCSS                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/billrisher/billrisher/main/assets/bar_graph.png)
 
 
- Last Updated on 08/06/2023 18:39:26 UTC
+ Last Updated on 09/06/2023 18:39:47 UTC
 <!--END_SECTION:waka-->
