@@ -13,7 +13,7 @@ I think that information should be accessible by everyone and shouldn't be kept 
 We all stand on the shoulders of giants, and everyone should be able to enjoy the view.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-186%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-186%20hrs%2034%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -30,9 +30,9 @@ We all stand on the shoulders of giants, and everyone should be able to enjoy th
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                199 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.49 % 
-🌆 Daytime                587 commits         █████████████░░░░░░░░░░░░   51.58 % 
-🌃 Evening                352 commits         ████████░░░░░░░░░░░░░░░░░   30.93 % 
+🌞 Morning                202 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.34 % 
+🌆 Daytime                600 commits         █████████████░░░░░░░░░░░░   51.50 % 
+🌃 Evening                363 commits         ████████░░░░░░░░░░░░░░░░░   31.16 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
@@ -43,11 +43,10 @@ We all stand on the shoulders of giants, and everyone should be able to enjoy th
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-TypeScript               3 hrs 36 mins       ██████████████████░░░░░░░   70.67 % 
-Other                    1 hr 15 mins        ██████░░░░░░░░░░░░░░░░░░░   24.60 % 
-Bash                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
-Git Config               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+TypeScript               5 hrs 54 mins       ███████████████████████░░   91.32 % 
+Other                    28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
+JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -67,5 +66,5 @@ SCSS                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/billrisher/billrisher/main/assets/bar_graph.png)
 
 
- Last Updated on 25/06/2023 18:42:41 UTC
+ Last Updated on 26/06/2023 18:43:38 UTC
 <!--END_SECTION:waka-->
