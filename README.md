@@ -13,7 +13,7 @@ I think that information should be accessible by everyone and shouldn't be kept 
 We all stand on the shoulders of giants, and everyone should be able to enjoy the view.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-222%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-223%20hrs%208%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -43,11 +43,11 @@ We all stand on the shoulders of giants, and everyone should be able to enjoy th
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-TypeScript               2 hrs 44 mins       █████████████████░░░░░░░░   66.71 % 
-C#                       38 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
-JSON                     21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
-JavaScript               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
-Svelte                   7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
+TypeScript               3 hrs 37 mins       ████████████████░░░░░░░░░   62.29 % 
+C#                       1 hr 33 mins        ███████░░░░░░░░░░░░░░░░░░   26.85 % 
+JSON                     21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
+JavaScript               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
+XML                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -67,5 +67,5 @@ SCSS                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/billrisher/billrisher/main/assets/bar_graph.png)
 
 
- Last Updated on 13/08/2023 18:40:05 UTC
+ Last Updated on 14/08/2023 18:39:46 UTC
 <!--END_SECTION:waka-->
