@@ -43,10 +43,7 @@ We all stand on the shoulders of giants, and everyone should be able to enjoy th
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Go                       1 hr                ███████████████████████░░   92.79 % 
-SQL                      4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
-ActionScript             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -66,5 +63,5 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/billrisher/billrisher/main/assets/bar_graph.png)
 
 
- Last Updated on 09/09/2023 18:39:26 UTC
+ Last Updated on 10/09/2023 18:39:35 UTC
 <!--END_SECTION:waka-->
