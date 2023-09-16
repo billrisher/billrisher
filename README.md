@@ -13,13 +13,13 @@ I think that information should be accessible by everyone and shouldn't be kept 
 We all stand on the shoulders of giants, and everyone should be able to enjoy the view.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-229%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-229%20hrs%2052%20mins-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 23.6 kB Used in GitHub's Storage 
+> 📦 24.4 kB Used in GitHub's Storage 
  > 
-> 🏆 173 Contributions in the Year 2023
+> 🏆 174 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -30,9 +30,9 @@ We all stand on the shoulders of giants, and everyone should be able to enjoy th
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                230 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
-🌆 Daytime                655 commits         ████████████░░░░░░░░░░░░░   49.29 % 
-🌃 Evening                444 commits         ████████░░░░░░░░░░░░░░░░░   33.41 % 
+🌞 Morning                230 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
+🌆 Daytime                656 commits         ████████████░░░░░░░░░░░░░   49.32 % 
+🌃 Evening                444 commits         ████████░░░░░░░░░░░░░░░░░   33.38 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
@@ -43,10 +43,10 @@ We all stand on the shoulders of giants, and everyone should be able to enjoy th
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-TypeScript               53 mins             ████████████████░░░░░░░░░   62.49 % 
-JSON                     24 mins             ███████░░░░░░░░░░░░░░░░░░   28.68 % 
-XML                      6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
-JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+TypeScript               1 hr 58 mins        ████████████████████░░░░░   78.61 % 
+JSON                     24 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
+XML                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
+JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
 ```
 
 **I Mostly Code in Java** 
@@ -66,5 +66,5 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/billrisher/billrisher/main/assets/bar_graph.png)
 
 
- Last Updated on 15/09/2023 18:39:29 UTC
+ Last Updated on 16/09/2023 18:39:32 UTC
 <!--END_SECTION:waka-->
