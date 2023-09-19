@@ -13,7 +13,7 @@ I think that information should be accessible by everyone and shouldn't be kept 
 We all stand on the shoulders of giants, and everyone should be able to enjoy the view.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-231%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-232%20hrs%2017%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -43,10 +43,10 @@ We all stand on the shoulders of giants, and everyone should be able to enjoy th
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-TypeScript               3 hrs 18 mins       ██████████████████████░░░   86.00 % 
-JSON                     24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
-XML                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
-JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+TypeScript               3 hrs 47 mins       ██████████████████████░░░   87.57 % 
+JSON                     24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
+XML                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
 ```
 
 **I Mostly Code in Java** 
@@ -66,5 +66,5 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/billrisher/billrisher/main/assets/bar_graph.png)
 
 
- Last Updated on 18/09/2023 18:40:21 UTC
+ Last Updated on 19/09/2023 18:41:53 UTC
 <!--END_SECTION:waka-->
