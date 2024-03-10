@@ -17,7 +17,7 @@ We all stand on the shoulders of giants, and everyone should be able to enjoy th
 
 **🐱 My GitHub Data** 
 
-> 📦 36.4 kB Used in GitHub's Storage 
+> 📦 36.5 kB Used in GitHub's Storage 
  > 
 > 🏆 29 Contributions in the Year 2024
  > 
@@ -46,14 +46,14 @@ We all stand on the shoulders of giants, and everyone should be able to enjoy th
 No Activity Tracked This Week
 ```
 
-**I Mostly Code in Java** 
+**I Mostly Code in TypeScript** 
 
 ```text
-Java                     11 repos            ██████░░░░░░░░░░░░░░░░░░░   23.40 % 
-TypeScript               11 repos            ██████░░░░░░░░░░░░░░░░░░░   23.40 % 
-JavaScript               8 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
-C#                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
-ShaderLab                1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+TypeScript               12 repos            ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+Java                     11 repos            ██████░░░░░░░░░░░░░░░░░░░   22.92 % 
+JavaScript               8 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+C#                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+ShaderLab                1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
 ```
 
 
@@ -63,5 +63,5 @@ ShaderLab                1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/billrisher/billrisher/main/assets/bar_graph.png)
 
 
- Last Updated on 09/03/2024 18:35:38 UTC
+ Last Updated on 10/03/2024 18:36:15 UTC
 <!--END_SECTION:waka-->
