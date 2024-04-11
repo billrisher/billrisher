@@ -13,11 +13,9 @@ I think that information should be accessible by everyone and shouldn't be kept 
 We all stand on the shoulders of giants, and everyone should be able to enjoy the view.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-232%20hrs%2046%20mins-blue)
-
 **🐱 My GitHub Data** 
 
-> 📦 49.9 kB Used in GitHub's Storage 
+> 📦 82.5 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -28,9 +26,9 @@ We all stand on the shoulders of giants, and everyone should be able to enjoy th
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                249 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.92 % 
-🌆 Daytime                732 commits         ████████████░░░░░░░░░░░░░   49.73 % 
-🌃 Evening                477 commits         ████████░░░░░░░░░░░░░░░░░   32.40 % 
+🌞 Morning                250 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
+🌆 Daytime                732 commits         ████████████░░░░░░░░░░░░░   49.69 % 
+🌃 Evening                477 commits         ████████░░░░░░░░░░░░░░░░░   32.38 % 
 🌙 Night                  14 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
 ```
 
@@ -61,5 +59,5 @@ ShaderLab                1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/billrisher/billrisher/main/assets/bar_graph.png)
 
 
- Last Updated on 10/04/2024 18:52:45 UTC
+ Last Updated on 11/04/2024 18:35:45 UTC
 <!--END_SECTION:waka-->
