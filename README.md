@@ -13,8 +13,6 @@ I think that information should be accessible by everyone and shouldn't be kept 
 We all stand on the shoulders of giants, and everyone should be able to enjoy the view.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-232%20hrs%2046%20mins-blue)
-
 **🐱 My GitHub Data** 
 
 > 📦 101.5 kB Used in GitHub's Storage 
@@ -63,5 +61,5 @@ ShaderLab                1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/billrisher/billrisher/main/assets/bar_graph.png)
 
 
- Last Updated on 21/10/2024 18:40:51 UTC
+ Last Updated on 22/10/2024 18:40:36 UTC
 <!--END_SECTION:waka-->
