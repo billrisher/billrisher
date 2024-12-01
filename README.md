@@ -13,13 +13,9 @@ I think that information should be accessible by everyone and shouldn't be kept 
 We all stand on the shoulders of giants, and everyone should be able to enjoy the view.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-232%20hrs%2046%20mins-blue)
-
 **🐱 My GitHub Data** 
 
 > 📦 104.8 kB Used in GitHub's Storage 
- > 
-> 🏆 89 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -30,9 +26,9 @@ We all stand on the shoulders of giants, and everyone should be able to enjoy th
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                223 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.48 % 
-🌆 Daytime                657 commits         █████████████░░░░░░░░░░░░   51.49 % 
-🌃 Evening                382 commits         ███████░░░░░░░░░░░░░░░░░░   29.94 % 
+🌞 Morning                225 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.61 % 
+🌆 Daytime                657 commits         █████████████░░░░░░░░░░░░   51.41 % 
+🌃 Evening                382 commits         ███████░░░░░░░░░░░░░░░░░░   29.89 % 
 🌙 Night                  14 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
 ```
 
@@ -63,5 +59,5 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/billrisher/billrisher/main/assets/bar_graph.png)
 
 
- Last Updated on 30/11/2024 18:40:12 UTC
+ Last Updated on 01/12/2024 18:40:44 UTC
 <!--END_SECTION:waka-->
