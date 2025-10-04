@@ -13,6 +13,8 @@ I think that information should be accessible by everyone and shouldn't be kept 
 We all stand on the shoulders of giants, and everyone should be able to enjoy the view.
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-232%20hrs%2046%20mins-blue)
+
 **🐱 My GitHub Data** 
 
 > 📦 106.0 kB Used in GitHub's Storage 
@@ -25,6 +27,25 @@ We all stand on the shoulders of giants, and everyone should be able to enjoy th
  > 
 > 🔑 39 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                234 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.96 % 
+🌆 Daytime                672 commits         █████████████░░░░░░░░░░░░   51.57 % 
+🌃 Evening                383 commits         ███████░░░░░░░░░░░░░░░░░░   29.39 % 
+🌙 Night                  14 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Chicago
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -42,5 +63,5 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/billrisher/billrisher/main/assets/bar_graph.png)
 
 
- Last Updated on 03/10/2025 18:42:17 UTC
+ Last Updated on 04/10/2025 18:40:38 UTC
 <!--END_SECTION:waka-->
